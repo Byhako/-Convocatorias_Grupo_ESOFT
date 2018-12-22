@@ -1,6 +1,6 @@
 # Convocatorias_Grupo_ESOFT
 
-Solución en *python*, *javascript* y *ruby* a la prueba técnica.
+Solución en **python**, **javascript** y **ruby** a la prueba técnica.
 
 ----------------------------------------------------------
 
