@@ -15,11 +15,9 @@ La suma de los elementos de la columna (total_columna) está por encima del prom
 c0|c1|c2
 
 [5, 3, 8]
-
 &nbsp;
 
 [1, 2, 4]
-
 &nbsp;
 
 [9, 7, 6]
